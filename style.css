@@ -1,0 +1,51 @@
+.nav-item{
+    padding: 10px;
+    color: #2A1E59
+    
+}
+
+
+.text-special{
+
+    color: #2A1E59
+}
+
+
+.carousel-item{
+    height: 32rem;
+    background-color: rgb(205, 207, 204);
+}
+
+.img-size{
+    width:500px;
+}
+
+.color{
+    color: white;
+}
+
+.special-text{
+
+    color:#76C27E
+
+}
+
+.img-text-container{
+    display: flex;
+}
+
+.box-content{
+    margin:3px;
+    padding: 3px;
+}
+
+.penguin-card{
+    background-color:white;
+    border: 0;
+}
+
+.penguin-card-footer{
+    border: 0;
+    background-color: white;
+}
+
